@@ -15,11 +15,11 @@ gobrew lets you easily switch between multiple versions of go. It is based on [r
 
   __via `curl`__
 
-  curl -L https://raw.github.com/grobins2/gobrew/master/tools/install.sh | sh
+  curl -L https://raw.github.com/cmars/gobrew/master/tools/install.sh | sh
 
   __via `wget`__
 
-  wget --no-check-certificate https://raw.github.com/grobins2/gobrew/master/tools/install.sh -O - | sh
+  wget https://raw.github.com/cmars/gobrew/master/tools/install.sh -O - | sh
 
 
 ####The manual way
