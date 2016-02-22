@@ -6,7 +6,7 @@ fi
 
 echo -e "\n\033[0;34mCloning gobrew...\033[0m"
 
-hash git >/dev/null && /usr/bin/env git clone https://github.com/cryptojuice/gobrew.git ~/.gobrew || {
+hash git >/dev/null && /usr/bin/env git clone https://github.com/cmars/gobrew.git ~/.gobrew || {
   echo "You have to install git first"
   exit
 }
